@@ -7,7 +7,7 @@ Based on Wagner-Fischer dynamic programming algorithm, optimized for speed and m
  - minimize the number of comparisons
  - always allocate a new distance vector in order to not leak memory
 
-## Install
+## Build and run
 
 ```
 sudo apt-get install qt5-default
