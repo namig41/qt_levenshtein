@@ -12,5 +12,5 @@ Based on Wagner-Fischer dynamic programming algorithm, optimized for speed and m
 ```
 sudo apt-get install qt5-default
 qmake && make 
-
+./lab4
 ```
